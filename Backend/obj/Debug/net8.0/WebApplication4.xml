@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApplication4</name>
+    </assembly>
+    <members>
+        <member name="T:WebApplication4.Migrations.InitialCreate">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApplication4.Migrations.InitialCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApplication4.Migrations.InitialCreate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApplication4.Migrations.InitialCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:WebApplication4.Migrations._2">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApplication4.Migrations._2.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApplication4.Migrations._2.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApplication4.Migrations._2.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:WebApplication4.Migrations._1">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApplication4.Migrations._1.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApplication4.Migrations._1.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApplication4.Migrations._1.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:WebApplication4.Migrations._3">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApplication4.Migrations._3.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApplication4.Migrations._3.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:WebApplication4.Migrations.AddPlateNumberAndLicensePlateToBus">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApplication4.Migrations.AddPlateNumberAndLicensePlateToBus.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApplication4.Migrations.AddPlateNumberAndLicensePlateToBus.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApplication4.Migrations.AddPlateNumberAndLicensePlateToBus.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:WebApplication4.Migrations.RenameBusesToBusTasks">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApplication4.Migrations.RenameBusesToBusTasks.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApplication4.Migrations.RenameBusesToBusTasks.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApplication4.Migrations.RenameBusesToBusTasks.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:WebApplication4.Migrations.UpdateBusTaskAndDriver">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApplication4.Migrations.UpdateBusTaskAndDriver.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApplication4.Migrations.UpdateBusTaskAndDriver.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApplication4.Migrations.UpdateBusTaskAndDriver.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:WebApplication4.Migrations.Son">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApplication4.Migrations.Son.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApplication4.Migrations.Son.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApplication4.Migrations.Son.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:WebApplication4.Migrations.AddRouteIDToBusRoute">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApplication4.Migrations.AddRouteIDToBusRoute.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApplication4.Migrations.AddRouteIDToBusRoute.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApplication4.Migrations.AddRouteIDToBusRoute.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
